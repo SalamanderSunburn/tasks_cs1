@@ -8,14 +8,16 @@ namespace University.Taisiya
 {
     class UniversityFactory : IUniversityFactory
     {
+        const string Programmer = "Taisiya Loza";
+
         public IUniversity CreateUniversity(string title)
         {
-            throw new NotImplementedException();
+            return new University(title);
         }
 
         public string ProgrammerName
         {
-            get { throw new NotImplementedException(); }
+            get { return Programmer; }
         }
     }
 }

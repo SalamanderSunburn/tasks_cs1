@@ -52,6 +52,13 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Sergey\UniversityFactory.cs" />
+    <Compile Include="Taisiya\Group.cs" />
+    <Compile Include="Taisiya\Person.cs" />
+    <Compile Include="Taisiya\Room.cs" />
+    <Compile Include="Taisiya\Schedule.cs" />
+    <Compile Include="Taisiya\Student.cs" />
+    <Compile Include="Taisiya\Teacher.cs" />
+    <Compile Include="Taisiya\University.cs" />
     <Compile Include="Taisiya\UniversityFactory.cs" />
     <Compile Include="Tatyana\UniversityFactory.cs" />
   </ItemGroup>

@@ -50,6 +50,8 @@
     <Compile Include="Sergey\Collections\PriorityQueue.cs" />
     <Compile Include="Sergey\Models\User.cs" />
     <Compile Include="Taisiya\CollectionsExercises.cs" />
+    <Compile Include="Taisiya\Group.cs" />
+    <Compile Include="Taisiya\PriorityQueue.cs" />
     <Compile Include="Tatyana\CollectionsExercises.cs" />
   </ItemGroup>
   <ItemGroup>

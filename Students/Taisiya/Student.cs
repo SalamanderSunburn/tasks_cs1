@@ -32,7 +32,7 @@ namespace Students.Taisiya
                 {
                     FullAge--;
                 }
-                return FullAge; throw new NotImplementedException();
+                return FullAge; 
             }
         }
 
